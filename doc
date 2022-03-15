@@ -1,0 +1,32 @@
+>>>----------------Simple_Student_management_system------------------<<<
+========================================================================
+
+<<--------Parts of Application-------->>
+    Website | Admin Panel | Teacher Panel | Student Panel
+
+Website Feature:
+    Home | Login | Registration |
+
+Home::
+    menu
+    Courses list with teacher info
+    Course Detail
+        -individual course detail form with application form
+    Subscriber section
+    Notice Section
+    Footer
+
+Login::
+    Login form
+
+Registration::
+    Reg form
+
+Admin Panel features:
+    Login | Dashboard | Manage User | Admin approve teacher course | Add Teacher | Manage Student Registration | Email
+
+Teecher Panel Features:
+    Login | Create Course | Published Course view | Enrolled Student view
+
+Student Panel Feature:
+    Login | Applied Course List | Approved Course List
